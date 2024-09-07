@@ -8,9 +8,7 @@
     <div>
       <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=300&height=25&lines=Full-Stack+Web+Developer;Open-Source+Enthusiast..;Nice+To+Meet+You+....&center=true">
     </div>
-    <div>
-      <img src="https://c.tenor.com/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" alt="About Me GIF" width="200px" height="200px">
-    </div>
+   
   </div>
 </p>
 
@@ -83,10 +81,16 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=KhushiTiwarii&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiTiwarii&layout=compact&theme=radical" alt="Top Languages">
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiTiwarii&layout=compact&theme=radical" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://c.tenor.com/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" alt="About Me GIF" width="200px" height="200px">
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">🔥 GitHub Streak</h2>
 
