@@ -6,10 +6,10 @@
   </h1>
   <div style="display:flex; justify-content: center;">
     <div>
-      <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=40&lines=Full-Stack+Web+Developer;Open-Source+Enthusiast..;Nice+To+Meet+You+....&center=true">
+      <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=300&height=25&lines=Full-Stack+Web+Developer;Open-Source+Enthusiast..;Nice+To+Meet+You+....&center=true">
     </div>
     <div>
-      <img src="https://c.tenor.com/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" alt="About Me GIF" width="400px" height="300px">
+      <img src="https://c.tenor.com/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" alt="About Me GIF" width="200px" height="200px">
     </div>
   </div>
 </p>
